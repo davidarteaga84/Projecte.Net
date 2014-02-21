@@ -1,0 +1,8 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\bin\projecteJoc.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\bin\projecteJoc.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\bin\projecteJoc.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\obj\Debug\projecteJoc.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\obj\Debug\projecteJoc.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\obj\Debug\projecteJoc.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\obj\Debug\projecteJoc.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\projecteJoc\projecteJoc\obj\Debug\projecteJoc.pdb
